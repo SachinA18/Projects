@@ -1,0 +1,28 @@
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\bin\Debug\Student Detais.exe.config
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\bin\Debug\Student Detais.exe
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\bin\Debug\Student Detais.pdb
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student Detais.csprojAssemblyReference.cache
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student_Detais.Form1.resources
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student_Detais.Properties.Resources.resources
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.GenerateResource.cache
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.CoreCompileInputs.cache
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student Detais.exe
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student Detais.pdb
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\bin\Debug\MySql.Data.dll
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\bin\Debug\Renci.SshNet.dll
+C:\Users\SIMI18Ghost\source\repos\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.CopyComplete
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\bin\Debug\Student Detais.exe.config
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\bin\Debug\Student Detais.exe
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\bin\Debug\Student Detais.pdb
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\bin\Debug\BouncyCastle.Crypto.dll
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\bin\Debug\Renci.SshNet.dll
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.AssemblyReference.cache
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.SuggestedBindingRedirects.cache
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student_Detais.Form1.resources
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student_Detais.Properties.Resources.resources
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.GenerateResource.cache
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.CoreCompileInputs.cache
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student Detais.csproj.CopyComplete
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student Detais.exe
+E:\NIBM Stuff\DIP\2nd Semester 1st Half\GAD\Student Detais\Student Detais\obj\Debug\Student Detais.pdb
